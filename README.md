@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Selene
-- 👀 Programming in java, c++, python, and javascript
+- 👀 Programming in java, c++, python, swift, and javascript
 - 🌱 Working on my degree in software engineering.
 - 📫 How to reach me ... https://www.linkedin.com/in/selene-clark-14145137/
 
